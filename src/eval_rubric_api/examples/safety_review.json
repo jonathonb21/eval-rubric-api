@@ -1,0 +1,9 @@
+{
+  "title": "Safety review response",
+  "description": "Score an answer about model safety, bias, or guardrails.",
+  "rubric": {
+    "accuracy": "Correctly describes the safety concern or mitigation",
+    "specificity": "References concrete behaviors or failure modes",
+    "actionable": "Proposes a practical next step or guardrail"
+  }
+}

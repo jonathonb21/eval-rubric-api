@@ -1,0 +1,9 @@
+{
+  "title": "Technical Q&A answer",
+  "description": "Score a short systems-design style answer.",
+  "rubric": {
+    "correctness": "Mentions cache-aside and database",
+    "completeness": "Explains read-load benefit",
+    "clarity": "Plain language without jargon overload"
+  }
+}

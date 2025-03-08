@@ -1,0 +1,9 @@
+{
+  "title": "Code review response",
+  "description": "Score a PR review comment for substance and tone.",
+  "rubric": {
+    "correctness": "Identifies a concrete bug or risk in the change",
+    "actionable": "Suggests a specific fix or next step",
+    "tone": "Professional and constructive wording"
+  }
+}
